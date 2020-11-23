@@ -34,7 +34,7 @@ Maintainer: 👑LengZz👑 <vannleng12345@gmail.com>
 Depends: firmware (>12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.pubghacklengzz.deb
-Size: 239 KB
+Size: 245700
 MD5sum: b04317f429e87c7b3702d274ba3bb96d
 Description: Support IOS 14
 Name: PUBG Global Hack V1.1🍭
@@ -49,7 +49,7 @@ Maintainer: 👑LengZz👑 <vannleng12345@gmail.com>
 Depends: firmware (>12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.focos-vip.lengzz.deb
-Size: 69.2 KB
+Size: 70888
 MD5sum: 0db2ada71b1c71e1a17d2044e579b22d
 Description: Support IOS 14
 Name: Focos VIP🍭
