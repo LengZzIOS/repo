@@ -29,14 +29,14 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.pubglengzz.deb
 Version: 1.1.1
-Section: Game Hack🍭
+Section: Tweaks
 Maintainer: 👑LengZz👑 <vannleng12345@gmail.com>
 Depends: firmware (>12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.pubghacklengzz.deb
-Size: 239
+Size: 239 KB
 MD5sum: b04317f429e87c7b3702d274ba3bb96d
-Description: Firmware should be greater than 7.0
+Description: Support IOS 14
 Name: PUBG Global Hack V1.1🍭
 Author: 👑LengZz👑 <vannleng12345@gmail.com>
 Depiction: https://lengzzios.github.io/repo/depictions/?p=com.pubglengzz.deb
@@ -44,14 +44,14 @@ Depiction: https://lengzzios.github.io/repo/depictions/?p=com.pubglengzz.deb
 
 Package: com.focos-vip.lengzz.deb
 Version: 1.1.1
-Section: Tweaks Apps🍭
+Section: Tweaks
 Maintainer: 👑LengZz👑 <vannleng12345@gmail.com>
 Depends: firmware (>12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.focos-vip.lengzz.deb
-Size: 69.2
+Size: 69.2 KB
 MD5sum: 0db2ada71b1c71e1a17d2044e579b22d
-Description: Firmware should be greater than 7.0
+Description: Support IOS 14
 Name: Focos VIP🍭
 Author: 👑LengZz👑 <vannleng12345@gmail.com>
 Depiction: https://lengzzios.github.io/repo/depictions/?p=com.focos-vip.lengzz.deb
