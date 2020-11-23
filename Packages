@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+Package: pubg.LengZz.ios.deb
+Version: 1.1.1
+Section: Tweaks
+Maintainer: LengZz <vannleng12345@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/pubg.LengZz.ios.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: LengZz <vannleng12345@gmail.com>
+Depiction: https://lengzzios.github.io/repo/depictions/?p=pubg.LengZz.ios.deb
