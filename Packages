@@ -55,3 +55,17 @@ Description: Support IOS 14
 Name: Focos VIP🍭
 Author: 👑LengZz👑 <vannleng12345@gmail.com>
 Depiction: https://lengzzios.github.io/repo/depictions/?p=com.focos-vip.lengzz.deb
+
+Package: com.picsart-vip.lengzz.deb
+Version: 1.1.1
+Section: Tweaks
+Maintainer: 👑LengZz👑 <vannleng12345@gmail.com>
+Depends: firmware (>12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.picsart-vip.lengzz.deb
+Size: 71024
+MD5sum: 157A526B75AD45FE456812067AB9714A
+Description: Support IOS 14 - Free Premium User
+Name: PICSART VIP🍭
+Author: 👑LengZz👑 <vannleng12345@gmail.com>
+Depiction: https://lengzzios.github.io/repo/depictions/?p=com.picsart-vip.lengzz.deb
