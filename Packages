@@ -25,3 +25,19 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+
+
+Package: com.pubghack.pro
+Version: 1.0.0
+Section: Tweaks
+Maintainer: LengZzIOSofficial <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/pubg.LengZz.ios_1.1.0_iphoneos-arm.deb
+Size: 239 KB
+MD5sum: B35616950CB5BBDFABABB8B372EAFC83
+Description: This is a sample  package. Firmware should be lower than 7.0
+Name: PUBG HACK v13
+Author: LengZzIOSofficial
+Depiction: https://lengzzios.github.io/repo/depictions/?p=com.pubghack.pro
