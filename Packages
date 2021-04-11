@@ -34,7 +34,7 @@ Section: Tweaks
 Maintainer: LengZzIOSofficial <reposithree@gmail.com>
 Depends: firmware (<14.5)
 Architecture: iphoneos-arm
-Filename: ./debs/pubg.LengZz.ios_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.pubghack.pro.deb
 Size: 239 KB
 MD5sum: B35616950CB5BBDFABABB8B372EAFC83
 Description: This is a sample  package. Firmware should be lower than 7.0
